@@ -1,0 +1,1 @@
+pwd - It prints the absolute current working directory 
